@@ -1,0 +1,188 @@
+================================================================================
+VIDA (1864 → 1920)
+
+Max Weber foi um sociólogo, jurista, economista e cientista político alemão.
+É considerado um dos fundadores da Sociologia moderna.
+
+Foi professor nas universidades de Freiburg, Heidelberg e Munique.
+
+================================================================================
+LIVROS
+
+1904 A Objetividade do Conhecimento na Ciência Social
+       - Metodologia das ciências sociais.
+1905 A Ética Protestante e o Espírito do Capitalismo ✱
+       - Relação entre religião e desenvolvimento do capitalismo.
+1917 A Ciência como Vocação
+       - Ciência, valores e racionalização.
+1919 A Política como Vocação ✱
+       - Estado, poder, legitimidade e ética política.
+1922 Economia e Sociedade ✱ (publicação póstuma)
+       - Ação social, dominação, burocracia e organização social.
+1923 História Econômica Geral (publicação póstuma)
+       - Desenvolvimento histórico das instituições econômicas.
+
+================================================================================
+POSICIONAMENTOS
+
+• Defendia a democracia parlamentar e instituições políticas fortes.
+• Defendia uma liderança política responsável pelas consequências de suas ações.
+• Criticava a burocratização excessiva da sociedade.
+• Defendia a autonomia da investigação científica em relação a juízos de valor.
+• Considerava o capitalismo moderno associado a um processo histórico de
+  racionalização econômica e social.
+
+================================================================================
+TESES
+
+→ a Sociologia deve compreender o sentido que os indivíduos atribuem às
+suas ações e explicar suas causas e consequências.
+
+→ o Estado moderno reivindica, com êxito, o monopólio do uso legítimo da
+força física dentro de determinado território.
+
+→ a dominação estável depende de alguma forma de crença em sua legitimidade.
+
+→ existem três tipos puros de dominação legítima:
+  • Tradicional.
+  • Carismática.
+  • Racional-legal.
+
+→ a burocracia é a forma de organização administrativa característica da
+dominação racional-legal.
+
+→ a modernidade é marcada pela crescente racionalização da vida social.
+
+→ a racionalização promove eficiência e previsibilidade, mas também pode
+restringir a liberdade individual.
+
+→ ideias religiosas podem influenciar profundamente o comportamento econômico.
+
+→ a ética protestante ascética contribuiu historicamente para a formação
+do espírito do capitalismo moderno.
+
+→ a política exige considerar tanto princípios morais quanto as consequências
+concretas das decisões.
+
+--------------------------------------------------------------------------------
+AÇÃO SOCIAL
+
+- é a ação humana dotada de sentido subjetivo e orientada pelo comportamento
+de outras pessoas.
+
+tipos ideais
+  • Racional com relação a fins.
+    - escolha calculada dos meios para alcançar objetivos.
+  • Racional com relação a valores.
+    - ação orientada por convicções, independentemente dos resultados.
+  • Afetiva.
+    - ação determinada por emoções.
+  • Tradicional.
+    - ação determinada por hábitos e costumes.
+
+--------------------------------------------------------------------------------
+DOMINAÇÃO LEGÍTIMA
+
+- dominação é a probabilidade de encontrar obediência a determinadas ordens.
+
+tipos puros
+  • Tradicional.
+    - legitimidade baseada nos costumes e tradições.
+    - eg: monarquia tradicional.
+  • Carismática.
+    - legitimidade baseada nas qualidades extraordinárias atribuídas ao líder.
+    - eg: líder revolucionário.
+  • Racional-legal.
+    - legitimidade baseada na crença na validade das regras impessoais.
+    - eg: Estado moderno e administração burocrática.
+
+✱ são tipos ideais: na realidade, podem aparecer combinados.
+
+--------------------------------------------------------------------------------
+BUROCRACIA
+
+- modelo de organização administrativa baseado em regras impessoais,
+hierarquia, especialização e competências formalmente definidas.
+
+características
+  • Hierarquia de autoridade.
+  • Divisão e especialização do trabalho.
+  • Competências definidas por normas.
+  • Impessoalidade.
+  • Seleção baseada em qualificação técnica.
+  • Documentação escrita.
+  • Profissionalização dos funcionários.
+  • Separação entre cargo e patrimônio pessoal.
+
+vantagens
+  • Eficiência técnica.
+  • Previsibilidade.
+  • Continuidade administrativa.
+  • Padronização das decisões.
+
+riscos
+  • Rigidez administrativa.
+  • Excessiva formalização.
+  • Concentração de poder nos administradores.
+  • Restrição da autonomia individual.
+
+--------------------------------------------------------------------------------
+RACIONALIZAÇÃO E DESENCANTAMENTO DO MUNDO
+
+- a modernidade é caracterizada pela expansão do cálculo racional, das
+regras formais e dos métodos científicos.
+
+consequências
+  • Expansão da burocracia.
+  • Organização racional da economia.
+  • Crescente importância da ciência e da técnica.
+  • Redução do papel das explicações mágicas do mundo.
+  • Maior previsibilidade das relações sociais.
+
+→ o processo de racionalização pode aprisionar os indivíduos em estruturas
+impessoais de regras e obrigações. (metáfora da jaula de ferro)
+
+--------------------------------------------------------------------------------
+ÉTICA DA CONVICÇÃO E ÉTICA DA RESPONSABILIDADE
+
+Ética da Convicção
+  - orientada pela fidelidade a princípios e valores.
+  - o agente age conforme suas convicções morais.
+
+Ética da Responsabilidade
+  - considera as consequências previsíveis das ações.
+  - o agente assume responsabilidade pelos resultados de suas decisões.
+
+→ Weber não considera essas éticas necessariamente incompatíveis.
+→ a atuação política madura exige uma combinação das duas.
+
+--------------------------------------------------------------------------------
+ESTADO E POLÍTICA
+
+Estado
+  - comunidade humana que reivindica com êxito o monopólio do uso legítimo
+    da força física dentro de determinado território.
+
+Política
+  - atividade relacionada à direção ou à influência sobre a direção
+    de uma associação política, especialmente o Estado.
+
+Poder
+  - probabilidade de impor a própria vontade em uma relação social,
+    mesmo diante de resistência.
+
+Dominação
+  - probabilidade de obter obediência a uma ordem de determinado conteúdo.
+
+→ poder é um conceito mais amplo que dominação.
+→ dominação envolve uma relação de mando e obediência.
+
+--------------------------------------------------------------------------------
+TIPO IDEAL
+
+- construção conceitual que destaca determinados aspectos da realidade
+para facilitar sua análise e comparação.
+
+→ não é um modelo moralmente perfeito ou necessariamente desejável.
+→ não precisa existir integralmente na realidade.
+→ serve como instrumento metodológico para compreender fenômenos sociais.

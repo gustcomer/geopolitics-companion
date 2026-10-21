@@ -1,0 +1,355 @@
+================================================================================
+RECURSOS
+
+https://plato.stanford.edu/entries/foucault/
+
+================================================================================
+VIDA (1926 → 1984)
+
+Michel Foucault foi um filósofo e historiador das ideias francês.
+
+1926 Nasceu em Poitiers, França.
+1946 Ingressou na École Normale Supérieure, em Paris.
+1961 Publicou História da Loucura.
+1966 Publicou As Palavras e as Coisas.
+1969 Publicou A Arqueologia do Saber.
+1970 Assumiu uma cátedra no Collège de France.
+1975 Publicou Vigiar e Punir.
+1976 Publicou o primeiro volume de História da Sexualidade.
+1984 Morreu em Paris.
+
+→ investigou como as sociedades produzem conhecimentos,
+  classificações e mecanismos de poder.
+
+→ é frequentemente associado ao pós-estruturalismo,
+  embora rejeitasse classificações intelectuais rígidas.
+
+================================================================================
+LIVROS
+
+1961 História da Loucura na Idade Clássica ✱
+       - História da exclusão e do tratamento social da loucura.
+1963 O Nascimento da Clínica
+       - Formação do olhar médico moderno.
+1966 As Palavras e as Coisas ✱
+       - Transformações históricas das formas de conhecimento.
+1969 A Arqueologia do Saber
+       - Método de análise das formações discursivas.
+1975 Vigiar e Punir ✱
+       - Prisões, vigilância e poder disciplinar.
+1976 História da Sexualidade I: A Vontade de Saber ✱
+       - Poder, sexualidade e produção de discursos.
+1984 História da Sexualidade II: O Uso dos Prazeres
+       - Ética e práticas sexuais na Antiguidade.
+1984 História da Sexualidade III: O Cuidado de Si
+       - Autoconhecimento e práticas de constituição do sujeito.
+2018 História da Sexualidade IV: As Confissões da Carne
+       - Cristianismo antigo e formação da experiência sexual.
+       - Publicação póstuma.
+
+================================================================================
+POSICIONAMENTOS
+
+• Crítico das formas de dominação e normalização social.
+• Interessado nas relações entre poder e produção do conhecimento.
+• Crítico da ideia de progresso histórico necessariamente linear.
+• Defensor da investigação histórica das instituições modernas.
+• Participou de movimentos em defesa dos direitos dos presos.
+• Questionou a naturalização de categorias sociais e científicas.
+• Criticou a concentração do poder e seus mecanismos cotidianos.
+• Desconfiava de teorias que explicassem toda a história
+  por uma única causa ou princípio universal.
+
+================================================================================
+TESES
+
+→ o poder não está concentrado exclusivamente no Estado.
+
+→ o poder circula por relações sociais, instituições
+  e práticas cotidianas.
+
+→ o conhecimento e o poder estão profundamente relacionados.
+
+→ instituições como escolas, hospitais, quartéis e prisões
+  utilizam técnicas de observação, classificação e disciplina.
+
+→ as sociedades modernas exercem poder não apenas
+  pela repressão, mas também pela produção de normas.
+
+→ a vigilância pode levar os indivíduos a disciplinarem
+  o próprio comportamento.
+
+→ categorias como normalidade, loucura e delinquência
+  possuem histórias institucionais e discursivas.
+
+→ a sexualidade moderna tornou-se objeto de múltiplos
+  discursos científicos, médicos e administrativos.
+
+→ o poder moderno também administra a vida das populações,
+  por meio de mecanismos de segurança e regulação.
+
+→ o sujeito é historicamente constituído por práticas
+  de conhecimento, poder e relação consigo mesmo.
+
+--------------------------------------------------------------------------------
+PODER
+
+- Foucault analisa o poder como um conjunto de relações,
+  e não apenas como uma propriedade de governantes.
+
+características
+  • Relacional.
+    - manifesta-se nas relações entre indivíduos e grupos.
+  • Capilar.
+    - atua em múltiplos pontos da sociedade.
+  • Produtivo.
+    - produz comportamentos, saberes e identidades.
+  • Dinâmico.
+    - encontra resistências e pode ser transformado.
+
+→ o poder não se limita à proibição ou à violência.
+
+→ também organiza condutas, estabelece normas
+  e influencia a maneira como os indivíduos se compreendem.
+
+--------------------------------------------------------------------------------
+PODER-SABER
+
+- conceito que expressa a relação entre conhecimento e poder.
+
+→ os conhecimentos são produzidos em contextos históricos
+  e institucionais atravessados por relações de poder.
+
+→ práticas de classificação e observação podem
+  contribuir para o exercício do poder.
+
+→ relações de poder também favorecem a produção
+  de determinados objetos e campos de conhecimento.
+
+eg: a classificação médica de comportamentos pode
+influenciar como instituições tratam os indivíduos.
+
+✱ Foucault não afirma simplesmente que todo conhecimento
+  seja falso ou mera propaganda de quem governa.
+
+--------------------------------------------------------------------------------
+PODER DISCIPLINAR
+
+- forma de poder que atua sobre os corpos e comportamentos
+  individuais por meio de técnicas de disciplina.
+
+instrumentos
+  • Vigilância hierárquica.
+  • Exame.
+  • Classificação.
+  • Controle do tempo.
+  • Organização do espaço.
+  • Sanções normalizadoras.
+
+instituições
+  • Escolas.
+  • Quartéis.
+  • Hospitais.
+  • Fábricas.
+  • Prisões.
+
+→ a disciplina procura produzir corpos úteis e dóceis.
+
+→ o indivíduo passa a ser observado, avaliado
+  e comparado com padrões de normalidade.
+
+--------------------------------------------------------------------------------
+PANÓPTICO
+
+- modelo de prisão idealizado por Jeremy Bentham.
+
+estrutura
+  • Torre central de observação.
+  • Celas dispostas ao redor.
+  • Possibilidade de observar os presos.
+  • Incerteza dos presos sobre estarem sendo observados.
+
+→ a possibilidade permanente de vigilância pode induzir
+  os indivíduos a regularem o próprio comportamento.
+
+→ Foucault utiliza o panóptico como modelo explicativo
+  do funcionamento do poder disciplinar.
+
+--------------------------------------------------------------------------------
+BIOPODER
+
+- conjunto de mecanismos modernos de poder
+  voltados à administração da vida humana.
+
+duas dimensões principais
+  • Disciplina dos corpos.
+    - treinamento, vigilância e otimização dos indivíduos.
+  • Regulação das populações.
+    - natalidade, mortalidade, saúde e longevidade.
+
+→ o poder passa a se preocupar também com a gestão
+  dos processos biológicos da população.
+
+--------------------------------------------------------------------------------
+BIOPOLÍTICA
+
+- dimensão do poder voltada à regulação
+  da vida das populações.
+
+objetos
+  • Taxas de natalidade.
+  • Mortalidade.
+  • Epidemias.
+  • Saúde pública.
+  • Expectativa de vida.
+  • Condições sanitárias.
+
+→ populações tornam-se objetos de conhecimento
+  e de intervenção governamental.
+
+→ a biopolítica é uma dimensão do biopoder,
+  especialmente relacionada à regulação populacional.
+
+--------------------------------------------------------------------------------
+GOVERNAMENTALIDADE
+
+- conceito utilizado para estudar as racionalidades
+  e técnicas pelas quais se procura conduzir condutas.
+
+→ governar não significa apenas emitir ordens.
+
+→ envolve organizar possibilidades de ação,
+  administrar riscos e influenciar comportamentos.
+
+→ Foucault estudou a relação entre governamentalidade,
+  liberalismo, segurança e administração das populações.
+
+--------------------------------------------------------------------------------
+ARQUEOLOGIA DO SABER
+
+- método de investigação das condições históricas
+  que tornam possíveis determinados discursos.
+
+→ procura identificar regras que organizam
+  o que pode ser dito e reconhecido como conhecimento.
+
+→ analisa descontinuidades e transformações
+  nas formas históricas de pensar.
+
+→ não procura simplesmente descobrir
+  a intenção individual dos autores.
+
+--------------------------------------------------------------------------------
+GENEALOGIA
+
+- método histórico influenciado por Friedrich Nietzsche.
+
+→ investiga como práticas, instituições e valores
+  surgiram de processos históricos contingentes.
+
+→ questiona explicações baseadas em origens puras
+  ou em desenvolvimentos históricos inevitáveis.
+
+→ enfatiza conflitos, disputas e relações de poder
+  na formação das instituições.
+
+--------------------------------------------------------------------------------
+DISCURSO
+
+- conjunto historicamente organizado de práticas
+  que constituem objetos de conhecimento.
+
+→ os discursos influenciam o que pode ser pensado,
+  afirmado e considerado verdadeiro em determinada época.
+
+→ não se reduzem às opiniões de indivíduos.
+
+eg: discursos médicos e jurídicos contribuem
+para definir categorias de normalidade e desvio.
+
+--------------------------------------------------------------------------------
+NORMALIZAÇÃO
+
+- processo pelo qual determinados padrões de comportamento
+  são estabelecidos e utilizados para avaliar indivíduos.
+
+→ a norma permite comparar, classificar e corrigir condutas.
+
+→ o poder disciplinar atua frequentemente
+  pela comparação entre indivíduos e padrões.
+
+→ a normalização pode ocorrer sem violência explícita.
+
+--------------------------------------------------------------------------------
+HISTÓRIA DA SEXUALIDADE
+
+- investigação histórica das relações entre sexualidade,
+  poder, conhecimento e formação do sujeito.
+
+→ Foucault questiona a ideia de que a modernidade
+  tenha simplesmente silenciado a sexualidade.
+
+→ argumenta que houve uma multiplicação de discursos
+  médicos, científicos, religiosos e administrativos
+  sobre o sexo.
+
+→ esses discursos contribuíram para constituir
+  categorias e identidades sexuais.
+
+--------------------------------------------------------------------------------
+CUIDADO DE SI
+
+- tema importante nos últimos trabalhos de Foucault.
+
+→ investiga práticas pelas quais os indivíduos
+  procuram transformar a si mesmos.
+
+→ estuda especialmente tradições éticas greco-romanas.
+
+→ a ética envolve não apenas obedecer a regras,
+  mas também constituir-se como sujeito moral.
+
+--------------------------------------------------------------------------------
+FOUCAULT E NIETZSCHE
+
+- Nietzsche foi uma influência fundamental
+  no método genealógico de Foucault.
+
+aproximações
+  • Crítica a verdades consideradas universais e atemporais.
+  • Investigação histórica da formação dos valores.
+  • Atenção às relações entre conhecimento e poder.
+  • Desconfiança de narrativas lineares de progresso.
+
+→ Foucault desenvolveu essas influências
+  na análise de instituições e práticas sociais.
+
+--------------------------------------------------------------------------------
+FOUCAULT E MARX
+
+Marx
+  - enfatiza relações de produção, classes sociais
+    e conflitos econômicos.
+
+Foucault
+  - enfatiza mecanismos dispersos de poder,
+    discursos e práticas institucionais.
+
+→ Foucault não nega a importância da economia,
+  mas rejeita reduzir todas as relações de poder
+  exclusivamente às relações de classe.
+
+--------------------------------------------------------------------------------
+LIMITAÇÕES E CRÍTICAS
+
+• Conceito de poder pode parecer excessivamente abrangente.
+• Algumas interpretações históricas são contestadas.
+• Ênfase na constituição histórica do sujeito pode dificultar
+  a fundamentação de critérios normativos universais.
+• Sua abordagem pode subestimar diferenças entre formas
+  legítimas e ilegítimas de autoridade.
+• Há debates sobre a compatibilidade entre suas análises
+  do poder e projetos políticos emancipatórios.
+
+✱ Foucault é especialmente influente na filosofia,
+  sociologia, criminologia, história e teoria política.
